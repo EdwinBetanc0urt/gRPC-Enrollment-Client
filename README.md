@@ -5,6 +5,7 @@
 [![Downloads](https://img.shields.io/npm/dm/@adempiere/grpc-enrollment-client.svg)](https://www.npmjs.com/package/@adempiere/grpc-enrollment-client)
 [![Dependencies](https://img.shields.io/librariesio/github/erpcya/grpc-enrollment-client.svg)](https://www.npmjs.com/package/@adempiere/grpc-enrollment-client)
 
+#### @DEPRECATED Replace with https://github.com/adempiere/gRPC-API
 
 ADempiere Enrollment Client write in Javascript for gRPC service, use it for connect with
 [ADempiere-gRPC-Server](https://github.com/erpcya/adempiere-gRPC-Server).
